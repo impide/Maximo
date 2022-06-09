@@ -47,9 +47,9 @@
                         <p class="col-md-8 fs-4">A vos côté depuis 2012, je vous accompagne dans vos projets immobiliers.</p>
                     </div>
                     <div class="col-6">
-    
+
                     </div>
-    
+
                 </div>
             </div>
             <div class="row ms-3 me-3">
@@ -78,12 +78,12 @@
                         <div class="input-group h-100">
                             <input type="text" class="form-control" placeholder="Localisation recherchée" aria-label="Localisation recherchée" aria-describedby="inputGroup-sizing-default">
                         </div>
-    
+
                     </div>
                     <button class="btn btn-warning col-2" type="submit">Trouver un bien</button>
                 </form>
-    
-    
+
+
             </div>
         </div>
         <!-- Nos partenaires -->
@@ -135,7 +135,18 @@
             <h2>Tous Les services <br>que nous proposons</h2>
         </div>
 
-    </div>
+        <div class="card-container">
+            <div class="card" style="width: 18rem;">
+            <img src="" alt="">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+
+            </p> div
+        </div>
 
 </body>
 
